@@ -1,0 +1,3 @@
+EMBASSIES AND MERCENARY CAMPS
+Special structures allowing you to hire mercenaries for your army.
+Mercenaries will not gather resources and cost only metal, but they are experienced and strong.

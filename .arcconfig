@@ -1,0 +1,5 @@
+{
+  "phabricator.uri" : "https://code.wildfiregames.com/",
+  "repository.callsign" : "P",
+  "load": ["build/arclint/pyrolint"]
+}

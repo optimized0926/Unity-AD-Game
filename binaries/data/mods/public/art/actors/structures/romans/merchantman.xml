@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="100" name="rome merchant ship">
+      <mesh>structural/rome_merch_ship.dae</mesh>
+      <props>
+        <prop actor="props/structures/romans/merchant_shrouds.xml" attachpoint="root"/>
+        <prop actor="props/structures/romans/merchant_sail.xml" attachpoint="root"/>
+      </props>
+      <textures>
+        <texture file="structural/rome_merch_ship.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="0" name="garrisoned">
+      <props>
+        <prop actor="props/special/common/garrison_flag_rome.xml" attachpoint="garrisoned"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="ungarrisoned"/>
+  </group>
+  <material>default.xml</material>
+</actor>

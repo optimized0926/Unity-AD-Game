@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <float/>
+  <group>
+    <variant name="Seagull" frequency="1">
+      <animations>
+        <animation file="other/seagull_flight_01.dae" name="Idle" speed="150"/>
+        <animation file="other/seagull_flight_02.dae" name="Idle" speed="100"/>
+      </animations>
+      <textures>
+        <texture file="skeletal/animal_seagull.png" name="baseTex"/>
+      </textures>
+      <mesh>skeletal/seagull.dae</mesh>
+    </variant>
+  </group>
+  <material>default.xml</material>
+</actor>

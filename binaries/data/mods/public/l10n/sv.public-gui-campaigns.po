@@ -1,0 +1,209 @@
+# Translation template for 0 A.D. — Empires Ascendant.
+# Copyright (C) 2022 Wildfire Games
+# This file is distributed under the same license as the 0 A.D. — Empires Ascendant
+# project.
+# Translators:
+# Ulrika Uddeborg
+# Erik Johansson
+# 978f34620323a49beac44c046cb2117a_1860a64
+# theschitz
+# Martin H
+# Albin Nilsson
+# Olle Sjöström
+# Jonatan Nyberg
+msgid ""
+msgstr ""
+"Project-Id-Version: 0 A.D. — Empires Ascendant\n"
+"POT-Creation-Date: 2022-04-18 07:10+0000\n"
+"PO-Revision-Date: 2021-04-23 16:19+0000\n"
+"Last-Translator: Jonatan Nyberg <jonatan@autistici.org>, 2022\n"
+"Language-Team: Swedish (https://www.transifex.com/wildfire-games/teams/17418/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: campaigns/new_maps.jsonDescription
+msgctxt "Campaign Template"
+msgid ""
+"Discover the new and improved maps in Alpha XXVI with a demo campaign, "
+"taking you through all of them."
+msgstr ""
+
+#: campaigns/new_maps.jsonName
+msgctxt "Campaign Template"
+msgid "Demo campaign - new maps"
+msgstr "Demonstrationskampanj - nya kartor"
+
+#: campaigns/tutorial.jsonDescription
+msgctxt "Campaign Template"
+msgid "Learn how to play 0 A.D."
+msgstr "Lär dig spela 0 e.Kr."
+
+#: campaigns/tutorial.jsonLevels.eco_walkthrough.Description
+msgctxt "Campaign Template"
+msgid ""
+"This map will give a rough guide for starting the game effectively.  Early "
+"in the game the most important thing is to gather resources as fast as "
+"possible so you are able to build enough troops later. Warning: This is very"
+" fast at the start, be prepared to run through the initial bit several "
+"times."
+msgstr ""
+"Denna karta kommer ge dig en grundläggande genomgång för att starta spelet "
+"effektivt. Tidigast i spelet är det viktigaste att samla resurser så snabbt "
+"som möjligt för att senare kunna skapa trupper. Varning: Detta går väldigt "
+"snabbt i början. Var beredd på att köra genomgången flera gånger."
+
+#: campaigns/tutorial.jsonLevels.eco_walkthrough.Name
+msgctxt "Campaign Template"
+msgid "Economy Walkthrough"
+msgstr "Ekonomigenomgång"
+
+#: campaigns/tutorial.jsonLevels.introduction.Description
+msgctxt "Campaign Template"
+msgid "This is a basic tutorial to get you started playing 0 A.D."
+msgstr ""
+"Detta är en grundläggande handledning för att komma igång att spela 0 A.D."
+
+#: campaigns/tutorial.jsonLevels.introduction.Name
+msgctxt "Campaign Template"
+msgid "Introductory Tutorial"
+msgstr "Inledande Handledning"
+
+#: campaigns/tutorial.jsonName
+msgctxt "Campaign Template"
+msgid "Tutorial"
+msgstr "Handledning"
+
+#: gui/campaigns/default_menu/CampaignMenu.js:155
+msgctxt "campaign status"
+msgid "Completed"
+msgstr "Avklarad"
+
+#: gui/campaigns/default_menu/CampaignMenu.js:157
+msgctxt "campaign status"
+msgid "Available"
+msgstr "Tillgänglig"
+
+#: gui/campaigns/default_menu/CampaignMenu.js:216
+#, javascript-format
+msgid "Error loading campaign run %s: %s."
+msgstr "Felmeddelande vid inläsning av kampanj %s: %s."
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(caption):14
+msgid "Campaign Name"
+msgstr "Kampanjnamn"
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(caption):45
+msgid "No scenario selected"
+msgstr "Inget scenario valt"
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(caption):58
+msgid "Back to Main Menu"
+msgstr "Tillbaka till huvudmenyn"
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(caption):62
+msgid "Saved Games"
+msgstr "Sparade spel"
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(caption):66
+msgid "Start Scenario"
+msgstr "Starta scenario"
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(caption):69
+msgid "Resume Saved Game"
+msgstr "Återuppta sparat spel"
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(heading):27
+msgctxt "campaignLevelList"
+msgid "Scenario Name"
+msgstr "Scenarionamn"
+
+#: gui/campaigns/default_menu/CampaignMenu.xml:(heading):31
+msgctxt "campaignLevelList"
+msgid "Status"
+msgstr "Status"
+
+#: gui/campaigns/load_modal/LoadModal.js:18
+msgid "file cannot be loaded"
+msgstr "Filen kan ej laddas"
+
+#: gui/campaigns/load_modal/LoadModal.js:104
+#, javascript-format
+msgid "Are you sure you want to delete run %s? This cannot be undone."
+msgstr ""
+"Är du säker på att du vill radera sparning %s? Denna åtgärd kan ej ångras."
+
+#: gui/campaigns/load_modal/LoadModal.js:105
+msgid "Confirmation"
+msgstr "Bekräfta"
+
+#: gui/campaigns/load_modal/LoadModal.js:106
+msgid "No"
+msgstr "Nej"
+
+#: gui/campaigns/load_modal/LoadModal.js:106
+msgid "Yes"
+msgstr "Ja"
+
+#: gui/campaigns/load_modal/LoadModal.xml:(caption):13
+#: gui/campaigns/load_modal/LoadModal.xml:(caption):39
+msgid "Load Campaign"
+msgstr "Läs in kampanj"
+
+#: gui/campaigns/load_modal/LoadModal.xml:(caption):20
+msgid "No ongoing campaigns."
+msgstr "Inga pågående kampanjer."
+
+#: gui/campaigns/load_modal/LoadModal.xml:(caption):24
+msgid "Name of selected run:"
+msgstr "Namn på sparat spel:"
+
+#: gui/campaigns/load_modal/LoadModal.xml:(caption):31
+#: gui/campaigns/new_modal/NewCampaignModal.xml:(caption):23
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: gui/campaigns/load_modal/LoadModal.xml:(caption):35
+msgid "Delete"
+msgstr "Ta bort"
+
+#: gui/campaigns/new_modal/NewCampaignModal.xml:(caption):12
+msgid "Start a campaign"
+msgstr "Starta en kampanj"
+
+#: gui/campaigns/new_modal/NewCampaignModal.xml:(caption):16
+msgid "Please enter the name of your new campaign run:"
+msgstr "Vänligen ange namnet på din nya kampanj:"
+
+#: gui/campaigns/new_modal/NewCampaignModal.xml:(caption):27
+#: gui/campaigns/setup/CampaignSetupPage.xml:(caption):55
+msgid "Start Campaign"
+msgstr "Starta kampanj"
+
+#: gui/campaigns/setup/CampaignSetupPage.js:40
+msgid "No campaign selected."
+msgstr "Ingen kampanj vald."
+
+#: gui/campaigns/setup/CampaignSetupPage.xml:(caption):10
+msgid "Campaigns"
+msgstr "Kampanjer"
+
+#: gui/campaigns/setup/CampaignSetupPage.xml:(caption):37
+msgid "No Campaign selected"
+msgstr "Ingen kampanj vald."
+
+#: gui/campaigns/setup/CampaignSetupPage.xml:(caption):50
+msgid "Main Menu"
+msgstr "Huvudmeny"
+
+#: gui/campaigns/setup/CampaignSetupPage.xml:(heading):26
+msgctxt "campaignsetup"
+msgid "Name"
+msgstr "Namn"
+
+#: gui/common/campaigns/CampaignRun.js:117
+#, javascript-format
+msgid "%(userDesc)s - %(templateName)s"
+msgstr "%(userDesc)s - %(templateName)s"
